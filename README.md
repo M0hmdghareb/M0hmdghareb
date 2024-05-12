@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/197/non_2x/big-data-banner-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/197/non_2x/big-data-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Gharib</h1>
 <h3 align="center">A passionate Data Engineering and Big Data from Egypt</h3>
 
