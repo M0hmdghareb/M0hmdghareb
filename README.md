@@ -1,12 +1,14 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/197/non_2x/big-data-banner-vector.jpg)]
 <h1 align="center">Hi 👋, I'm Mohamed Gharib</h1>
-<h3 align="center">A passionate Data Engineering from Egypt</h3>
+<h3 align="center">A passionate Data Engineering and Big Data from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hmdghareb&label=Profile%20views&color=0e75b6&style=flat" alt="m0hmdghareb" /> </p>
 
 - 🌱 I’m currently learning **Data Architect Nanodegree & Data Engineering Nanodegree**
 
-- 👨‍💻 All of my projects are available at [mahammedghareb8899@gmail.com](mahammedghareb8899@gmail.com)
+- 📫 How to reach me **mahammedghareb8899@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-X9bnCuLjmTz-LcJAKkz-Aj86kBL0p4X/view?usp=sharing](https://drive.google.com/file/d/1-X9bnCuLjmTz-LcJAKkz-Aj86kBL0p4X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
