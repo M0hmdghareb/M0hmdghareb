@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hmdghareb&label=Profile%20views&color=0e75b6&style=flat" alt="m0hmdghareb" /> </p>
 
-- 🌱 I’m currently learning **Data Architect Nanodegree**
+- 🌱 I’m currently learning **Data Architect Nanodegree & Data Engineering Nanodegree**
 
 - 👨‍💻 All of my projects are available at [mahammedghareb8899@gmail.com](mahammedghareb8899@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-X9bnCuLjmTz-LcJAKkz-Aj86kBL0p4X/view?usp=sharing](https://drive.google.com/file/d/1-X9bnCuLjmTz-LcJAKkz-Aj86kBL0p4X/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mohamed53785499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed53785499" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-gharib-1a7147217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-gharib-1a7147217/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mahammedghareb369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahammedghareb369" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hmdghareb&show_icons=true&locale=en" alt="m0hmdghareb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0hmdghareb&" alt="m0hmdghareb" /></p>
+
